@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-22T22:31:22</date>
+  <millis>1569209482978</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/AddStudent</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">AddStudent</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/AddStudent</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483003</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = kedavidsa - 192.168.0.18</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">kedavidsa - 192.168.0.18</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483006</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Mac OS X 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483007</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.0.18</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.0.18</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483009</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.2.2.4</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.2.2.4</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483452</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/AddStudent</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/AddStudent</property>
+  <property name="source">\\Users\\kedavidsa\\iCloud Drive (archivo)\\Documents\\Uniandes\\MISO4202-20192\\Taller\\TallerParejasMISO4202201920\\Test Cases\\AddStudent.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483490</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>name = Ninetta</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483491</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>last = Rakes</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483491</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>gender = Female</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483492</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>code = 88-7713396</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483493</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>country = China</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483498</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>city = Heyin</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:23</date>
+  <millis>1569209483498</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>university = Harbin Institute of Technology</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:24</date>
+  <millis>1569209484022</millis>
+  <sequence>14</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:25</date>
+  <millis>1569209485811</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/kedavidsa/iCloud Drive (archivo)/Documents/Uniandes/MISO4202-20192/Taller/TallerParejasMISO4202201920/Reports/AddStudent/20190922_223119/requests/main/0.har</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="harId">b8993008-f0c0-44e8-84e2-912198e0fc20</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:25</date>
+  <millis>1569209485994</millis>
+  <sequence>18</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:25</date>
+  <millis>1569209485995</millis>
+  <sequence>19</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:25</date>
+  <millis>1569209485997</millis>
+  <sequence>20</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486010</millis>
+  <sequence>22</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response status code successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486011</millis>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486015</millis>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486096</millis>
+  <sequence>26</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486097</millis>
+  <sequence>27</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486097</millis>
+  <sequence>28</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486099</millis>
+  <sequence>29</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486106</millis>
+  <sequence>30</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/AddStudent</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/AddStudent</property>
+  <property name="source">\\Users\\kedavidsa\\iCloud Drive (archivo)\\Documents\\Uniandes\\MISO4202-20192\\Taller\\TallerParejasMISO4202201920\\Test Cases\\AddStudent.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486117</millis>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>name = Witty</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486119</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>last = Tewkesbury.</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486120</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>gender = Male</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486120</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>code = 78-6402515</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486121</millis>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>country = Slovakia</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486121</millis>
+  <sequence>37</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>city = Bratislava</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486122</millis>
+  <sequence>38</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>university = University of SV Cyril and Methodius in Trnava</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486124</millis>
+  <sequence>39</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486507</millis>
+  <sequence>42</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/kedavidsa/iCloud Drive (archivo)/Documents/Uniandes/MISO4202-20192/Taller/TallerParejasMISO4202201920/Reports/AddStudent/20190922_223119/requests/main/1.har</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="harId">fd8b830a-7a4a-4201-927d-e64fa939da6e</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486519</millis>
+  <sequence>43</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486520</millis>
+  <sequence>44</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486520</millis>
+  <sequence>45</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486524</millis>
+  <sequence>47</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response status code successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486525</millis>
+  <sequence>48</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486525</millis>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486551</millis>
+  <sequence>51</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486552</millis>
+  <sequence>52</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486552</millis>
+  <sequence>53</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486553</millis>
+  <sequence>54</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486559</millis>
+  <sequence>55</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/AddStudent</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/AddStudent</property>
+  <property name="source">\\Users\\kedavidsa\\iCloud Drive (archivo)\\Documents\\Uniandes\\MISO4202-20192\\Taller\\TallerParejasMISO4202201920\\Test Cases\\AddStudent.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486569</millis>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>name = Yankee</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486569</millis>
+  <sequence>58</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>last = Wooler</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486570</millis>
+  <sequence>59</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>gender = Male</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486571</millis>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>code = 23-7464793</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486571</millis>
+  <sequence>61</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>country = Indonesia</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486572</millis>
+  <sequence>62</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>city = Cisasak</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486572</millis>
+  <sequence>63</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>university = Universitas Negeri Medan</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486574</millis>
+  <sequence>64</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486985</millis>
+  <sequence>67</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/kedavidsa/iCloud Drive (archivo)/Documents/Uniandes/MISO4202-20192/Taller/TallerParejasMISO4202201920/Reports/AddStudent/20190922_223119/requests/main/2.har</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="harId">87b0c79a-5f3d-4d73-869e-66daa2bb3ea7</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486996</millis>
+  <sequence>68</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486997</millis>
+  <sequence>69</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:26</date>
+  <millis>1569209486997</millis>
+  <sequence>70</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487001</millis>
+  <sequence>72</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response status code successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487002</millis>
+  <sequence>73</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487002</millis>
+  <sequence>74</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487034</millis>
+  <sequence>76</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487035</millis>
+  <sequence>77</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487035</millis>
+  <sequence>78</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487036</millis>
+  <sequence>79</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487049</millis>
+  <sequence>80</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/AddStudent</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/AddStudent</property>
+  <property name="source">\\Users\\kedavidsa\\iCloud Drive (archivo)\\Documents\\Uniandes\\MISO4202-20192\\Taller\\TallerParejasMISO4202201920\\Test Cases\\AddStudent.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487061</millis>
+  <sequence>82</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>name = Lindsey</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487062</millis>
+  <sequence>83</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>last = Bartaletti</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487062</millis>
+  <sequence>84</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>gender = Male</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487063</millis>
+  <sequence>85</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>code = 73-8826081</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487064</millis>
+  <sequence>86</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>country = Thailand</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487064</millis>
+  <sequence>87</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>city = Aranyaprathet</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487065</millis>
+  <sequence>88</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>university = Huachiew Chalermprakiet University</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487067</millis>
+  <sequence>89</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487494</millis>
+  <sequence>92</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/kedavidsa/iCloud Drive (archivo)/Documents/Uniandes/MISO4202-20192/Taller/TallerParejasMISO4202201920/Reports/AddStudent/20190922_223119/requests/main/3.har</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="harId">228c51d9-4f0d-4802-b3e1-6317c1873b5b</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487505</millis>
+  <sequence>93</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487506</millis>
+  <sequence>94</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487506</millis>
+  <sequence>95</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487509</millis>
+  <sequence>97</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response status code successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487510</millis>
+  <sequence>98</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487510</millis>
+  <sequence>99</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487538</millis>
+  <sequence>101</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487538</millis>
+  <sequence>102</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487539</millis>
+  <sequence>103</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487539</millis>
+  <sequence>104</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487545</millis>
+  <sequence>105</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/AddStudent</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/AddStudent</property>
+  <property name="source">\\Users\\kedavidsa\\iCloud Drive (archivo)\\Documents\\Uniandes\\MISO4202-20192\\Taller\\TallerParejasMISO4202201920\\Test Cases\\AddStudent.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487556</millis>
+  <sequence>107</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>name = Max</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487556</millis>
+  <sequence>108</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>last = Goracci</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487558</millis>
+  <sequence>109</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>gender = Female</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487559</millis>
+  <sequence>110</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>code = 27-7995889</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487560</millis>
+  <sequence>111</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>country = Indonesia</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487560</millis>
+  <sequence>112</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>city = Jinanten</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487561</millis>
+  <sequence>113</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>university = Universitas Brawijaya</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487563</millis>
+  <sequence>114</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487983</millis>
+  <sequence>117</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/kedavidsa/iCloud Drive (archivo)/Documents/Uniandes/MISO4202-20192/Taller/TallerParejasMISO4202201920/Reports/AddStudent/20190922_223119/requests/main/4.har</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="harId">74803201-8199-43e4-ab24-2b9b1f29ba90</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487985</millis>
+  <sequence>118</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487986</millis>
+  <sequence>119</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(\&amp;quot;AddStudent\&amp;quot;, [\&amp;quot;name\&amp;quot;:$name, \&amp;quot;last\&amp;quot;:$last, \&amp;quot;gender\&amp;quot;:$gender, \&amp;quot;code\&amp;quot;:$code, \&amp;quot;country\&amp;quot;:$country, \&amp;quot;city\&amp;quot;:$city, \&amp;quot;university\&amp;quot;:$university]))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487987</millis>
+  <sequence>120</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487990</millis>
+  <sequence>122</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response status code successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487991</millis>
+  <sequence>123</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyResponseStatusCode(response, 200)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:27</date>
+  <millis>1569209487991</millis>
+  <sequence>124</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-09-22T22:31:28</date>
+  <millis>1569209488017</millis>
+  <sequence>126</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify element property value successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:28</date>
+  <millis>1569209488017</millis>
+  <sequence>127</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPropertyValue(response, \&amp;quot;status\&amp;quot;, \&amp;quot;success\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:28</date>
+  <millis>1569209488018</millis>
+  <sequence>128</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/AddStudent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:28</date>
+  <millis>1569209488018</millis>
+  <sequence>129</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/AddStudent</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-09-22T22:31:28</date>
+  <millis>1569209488141</millis>
+  <sequence>130</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/AddStudent</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GETCitiesByCountry</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97abc700-3fdc-4c5f-964c-d6f98ed8f3f6</testCaseGuid>
+   <variable>
+      <defaultValue>'BR'</defaultValue>
+      <description></description>
+      <id>89943902-549a-40cf-9698-8e2ec230e723</id>
+      <masked>false</masked>
+      <name>shortName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Parana'</defaultValue>
+      <description></description>
+      <id>90187d6f-11fb-4801-9b14-a0c29605697d</id>
+      <masked>false</masked>
+      <name>state</name>
+   </variable>
+</TestCaseEntity>

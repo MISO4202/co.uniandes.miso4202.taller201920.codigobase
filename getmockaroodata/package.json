@@ -1,0 +1,15 @@
+{
+  "name": "getmockaroodata",
+  "version": "1.0.0",
+  "description": "Project to download data from mockaroo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Sanchez - Universidad de loas Andes",
+  "license": "MIT",
+  "dependencies": {
+    "json2xls": "^0.1.2",
+    "mockaroo": "^0.1.7"
+  }
+}

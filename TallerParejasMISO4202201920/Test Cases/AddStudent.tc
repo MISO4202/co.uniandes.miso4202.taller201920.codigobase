@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddStudent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da6fbecf-953f-4630-94a2-957fda2d0d8a</testCaseGuid>
+   <variable>
+      <defaultValue>'Kevin'</defaultValue>
+      <description></description>
+      <id>4dc5d590-4b23-43a0-aee4-1f97dc62294d</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sanchez'</defaultValue>
+      <description></description>
+      <id>f6d10e7a-bd6f-4458-a9b8-3362c7021cfa</id>
+      <masked>false</masked>
+      <name>last</name>
+   </variable>
+   <variable>
+      <defaultValue>'Male'</defaultValue>
+      <description></description>
+      <id>c01751b0-c205-40e8-bdda-e2c67b628eb3</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>'11'</defaultValue>
+      <description></description>
+      <id>3941c5b2-1704-473c-87e2-529caeee5bea</id>
+      <masked>false</masked>
+      <name>code</name>
+   </variable>
+   <variable>
+      <defaultValue>'CO'</defaultValue>
+      <description></description>
+      <id>f2973f45-8303-4a5f-b380-e861156260d9</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bogota'</defaultValue>
+      <description></description>
+      <id>25b530eb-831a-4530-bb5e-957093c98eea</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'Universidad de los Andes'</defaultValue>
+      <description></description>
+      <id>a8cdc5aa-1adc-4ccc-a7cc-5f642832859e</id>
+      <masked>false</masked>
+      <name>university</name>
+   </variable>
+</TestCaseEntity>

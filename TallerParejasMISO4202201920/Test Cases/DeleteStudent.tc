@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Borra el estudiante dado un id</description>
+   <name>DeleteStudent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10f1ba96-e6ad-4dd0-8cff-0879ad5229a6</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>3d47669b-0a4a-4021-a6b8-56b8f2425e0e</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

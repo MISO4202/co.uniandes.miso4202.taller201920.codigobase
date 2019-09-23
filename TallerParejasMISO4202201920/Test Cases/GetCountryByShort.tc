@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetCountryByShort</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35a6b892-9d8a-48c7-a194-33f7e2fe0591</testCaseGuid>
+   <variable>
+      <defaultValue>'BR'</defaultValue>
+      <description></description>
+      <id>f3733558-cb51-4ae9-9285-ca940e2753bd</id>
+      <masked>false</masked>
+      <name>shortName</name>
+   </variable>
+</TestCaseEntity>
